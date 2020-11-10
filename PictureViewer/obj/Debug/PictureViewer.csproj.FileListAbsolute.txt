@@ -1,0 +1,10 @@
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\kaitl\OneDrive\Documents\School\DIG4778C\PictureViewerRepo\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
